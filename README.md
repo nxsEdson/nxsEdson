@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to [My Homepage](https://nxsedson.github.io/)
 
-# ![](https://github-readme-stats.vercel.app/api?username=nxsedson)
+% ![](https://github-readme-stats.vercel.app/api?username=nxsedson)
 
 <!--
 **nxsEdson/nxsEdson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
